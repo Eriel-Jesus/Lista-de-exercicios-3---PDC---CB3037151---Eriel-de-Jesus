@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\blabalbalba\Exerc7\bin\Debug\Exerc7.exe.config
+C:\Users\aluno\source\repos\blabalbalba\Exerc7\bin\Debug\Exerc7.exe
+C:\Users\aluno\source\repos\blabalbalba\Exerc7\bin\Debug\Exerc7.pdb
+C:\Users\aluno\source\repos\blabalbalba\Exerc7\obj\Debug\Exerc7.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\blabalbalba\Exerc7\obj\Debug\Exerc7.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\blabalbalba\Exerc7\obj\Debug\Exerc7.exe
+C:\Users\aluno\source\repos\blabalbalba\Exerc7\obj\Debug\Exerc7.pdb

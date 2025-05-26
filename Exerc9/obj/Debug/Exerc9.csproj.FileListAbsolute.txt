@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\blabalbalba\Exerc9\bin\Debug\Exerc9.exe.config
+C:\Users\aluno\source\repos\blabalbalba\Exerc9\bin\Debug\Exerc9.exe
+C:\Users\aluno\source\repos\blabalbalba\Exerc9\bin\Debug\Exerc9.pdb
+C:\Users\aluno\source\repos\blabalbalba\Exerc9\obj\Debug\Exerc9.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\blabalbalba\Exerc9\obj\Debug\Exerc9.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\blabalbalba\Exerc9\obj\Debug\Exerc9.exe
+C:\Users\aluno\source\repos\blabalbalba\Exerc9\obj\Debug\Exerc9.pdb

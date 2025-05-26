@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\blabalbalba\Exerc8\bin\Debug\Exerc8.exe.config
+C:\Users\aluno\source\repos\blabalbalba\Exerc8\bin\Debug\Exerc8.exe
+C:\Users\aluno\source\repos\blabalbalba\Exerc8\bin\Debug\Exerc8.pdb
+C:\Users\aluno\source\repos\blabalbalba\Exerc8\obj\Debug\Exerc8.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\blabalbalba\Exerc8\obj\Debug\Exerc8.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\blabalbalba\Exerc8\obj\Debug\Exerc8.exe
+C:\Users\aluno\source\repos\blabalbalba\Exerc8\obj\Debug\Exerc8.pdb
