@@ -1,0 +1,8 @@
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista 3 - Operações com estrutura de repetição - CB3037151\Exerci13\bin\Debug\Exerci13.exe.config
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista 3 - Operações com estrutura de repetição - CB3037151\Exerci13\bin\Debug\Exerci13.exe
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista 3 - Operações com estrutura de repetição - CB3037151\Exerci13\bin\Debug\Exerci13.pdb
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista 3 - Operações com estrutura de repetição - CB3037151\Exerci13\obj\Debug\Exerci13.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista 3 - Operações com estrutura de repetição - CB3037151\Exerci13\obj\Debug\Exerci13.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista 3 - Operações com estrutura de repetição - CB3037151\Exerci13\obj\Debug\Exerci13.exe
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista 3 - Operações com estrutura de repetição - CB3037151\Exerci13\obj\Debug\Exerci13.pdb
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista 3 - Operações com estrutura de repetição - CB3037151\Exerci13\obj\Debug\Exerci13.exe.config
