@@ -1,0 +1,8 @@
+C:\Users\Acer\source\repos\Lista 3 - Operações com estrutura de repetição - CB3037151\Exerc4\obj\Debug\Exerc4.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Lista 3 - Operações com estrutura de repetição - CB3037151\Exerc4\obj\Debug\Exerc4.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Lista 3 - Operações com estrutura de repetição - CB3037151\Exerc4\bin\Debug\Exerc4.exe.config
+C:\Users\Acer\source\repos\Lista 3 - Operações com estrutura de repetição - CB3037151\Exerc4\bin\Debug\Exerc4.exe
+C:\Users\Acer\source\repos\Lista 3 - Operações com estrutura de repetição - CB3037151\Exerc4\bin\Debug\Exerc4.pdb
+C:\Users\Acer\source\repos\Lista 3 - Operações com estrutura de repetição - CB3037151\Exerc4\obj\Debug\Exerc4.exe
+C:\Users\Acer\source\repos\Lista 3 - Operações com estrutura de repetição - CB3037151\Exerc4\obj\Debug\Exerc4.pdb
+C:\Users\Acer\source\repos\Lista 3 - Operações com estrutura de repetição - CB3037151\Exerc4\obj\Debug\Exerc4.exe.config
