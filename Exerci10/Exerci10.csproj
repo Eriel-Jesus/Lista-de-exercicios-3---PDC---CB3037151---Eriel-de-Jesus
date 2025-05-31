@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{372CEC02-8E16-4650-89B8-154C0136DFFA}</ProjectGuid>
+    <ProjectGuid>{DA1ADB76-EF56-4327-9D63-6DC857D220AC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Exerc9</RootNamespace>
-    <AssemblyName>Exerc9</AssemblyName>
+    <RootNamespace>Exerci10</RootNamespace>
+    <AssemblyName>Exerci10</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Exerc9.cs" />
+    <Compile Include="Exerc10.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
